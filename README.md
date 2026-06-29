@@ -84,3 +84,4 @@ fun_fact: I automate things so I don't have to do them twice
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
